@@ -1,9 +1,5 @@
-from matplotlib import cm
-from matplotlib.axes import Axes
-from matplotlib.figure import Figure
 from matplotlib.patches import Rectangle
 import matplotlib.pyplot as plt
-from narwhals import col
 import numpy as np
 from numpy.typing import ArrayLike
 
